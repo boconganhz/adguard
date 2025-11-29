@@ -2,7 +2,7 @@
 @@||www.google.com^
 @@||gateway.fe2.apple-dns.net^
 @@||youtubei.googleapis.com^
-
+@@||hoangson.io.vn^
 
 
 @@||tradingview.com^
@@ -136,4 +136,5 @@
 @@||api.locketcamera.com^
 @@||piscale.com^
 @@||zadn.vn^
+
 @@||zdn.vn^
